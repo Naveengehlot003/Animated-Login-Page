@@ -46,7 +46,7 @@ This project is perfect for developers seeking to learn or showcase their skills
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Naveengehlot003/Animated-Login-Page/blob/main/Animated-Login-Page.png)
 
 
 ## 🚀 How to Use
