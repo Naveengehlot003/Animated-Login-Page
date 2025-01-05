@@ -33,8 +33,7 @@ The Animated Login Page is a sleek, interactive, and visually engaging user inte
 ```plaintext
 ├── index.html       # Main HTML file
 ├── style.css        # Stylesheet for design and animations
-├── script.js        # Optional JavaScript for dynamic interactions
-└── assets/          # Folder for images, fonts, and other resources
+
 ```
 This project is perfect for developers seeking to learn or showcase their skills in modern web design while delivering a polished user experience.
 
