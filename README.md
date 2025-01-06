@@ -24,7 +24,6 @@ The Animated Login Page is a sleek, interactive, and visually engaging user inte
 
 - **HTML5**: Markup structure.
 - **CSS3**: Styling and animations.
-- **JavaScript**: Dynamic interactions (optional).
 
 ---
 
